@@ -1,7 +1,7 @@
 Foogle Play Single Page Application (Backbone.js)
 ==========================================================================
 
-This is a very small and super simple project that was develop for my course "Foundations of Front-End Development" [here](http://train.codingshack.com),
+This is a very small and super simple project that was developed for my course "Foundations of Front-End Development" [here](http://train.codingshack.com),
 to teach students how to build a Single Page Application with Backbone.js.
 
 No build tools, nor automation or optmiziations are present, being a simple project aiming at illustrating how a Backbone application is developed from concept to finish, dealing with view lifecycle management, routing and Unit Testing.
